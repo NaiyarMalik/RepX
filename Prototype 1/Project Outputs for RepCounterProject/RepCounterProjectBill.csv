@@ -1,0 +1,12 @@
+Line #,Name,Description,Designator,Revision ID,Revision State,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1,Footprint
+
+"","796136-1","Battery Connector, 1 Cell, CR2032, 2-Pin SMD, RoHS, Tape and Reel","BT1","CMP-002-00002-2","Draft","Up to date","1","TE Connectivity / AMP","7961361","Unknown","","","","","TECO-796136-1_V"
+"","C320C104M5U5TA","C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% | KEMET C320C104M5U5TA","C1, C2, C3, C4","","Not managed","","4","","","","","","","","C320C"
+"","HDSP-523G","Displays Segmented Panel 2DIGIT 16LED Green CC 18-Pin DIP Tube","D1","","Not managed","","1","","","","","","","","LED_HDSP-523G"
+"","B3P-VH(LF)(SN)","Male Header, Pitch 3.96 mm, 1 x 3 Position, Height 10.9 mm, Tail Length 3.7 mm, -25 to 85 degC, RoHS, Bulk","Hall, Prog","CMP-002-00026-2","Draft","Up to date","2","JST","B3P-VH(LF)(SN)","Volume Production","Arrow Electronics","B3P-VH(LF)(SN)","0.21703","0.43406","JST-B3P-VH(LF)(SN)-3_V"
+"","PN2222ABU","NPN General-Purpose Amplifier, 40 V, -55 to 150 degC, 3-Pin TO-92, RoHS, Bulk","Q1, Q2","CMP-013-00009-7","Draft","Up to date","2","onsemi","PN2222ABU","Volume Production","Arrow Electronics","PN2222ABU","0.20287","0.40575","FAIR-TO-92"
+"","MFR-25FBF52-475R","Axial Resistor, 475 Ohm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk","R1, R2, R3, R4, R5, R6, R7, R10","CMP-009-00056-4","Draft","Up to date","8","Yageo Group","MFR-25FBF52-475R","Volume Production","Arrow Electronics","MFR-25FBF52-475R","0.0086","0.08603","RESA60-630X240"
+"","MFR-25FBF52-1K","Axial Resistor, 1 KOhm, +/- 1%, 250 mW, -55 to 155 degC, 2-Pin THD, RoHS, Bulk","R8, R9","CMP-009-00048-4","Draft","Up to date","2","Yageo Group","MFR-25FBF52-1K","Volume Production","Avnet","MFR-25FBF52-1K","0.05412","0.10824","RESA60-630X240"
+"","EG1218","Slide Switch, EG Series, SPDT, Non-Shorting, ON-ON, 200mA DC, 30VDC, PC Pin | E-Switch EG1218","S1","","Not managed","","1","","","","","","","","SW_EG1218"
+"","TL3342F160QG","Tactile Switch, SPST-NO, 50 mA, 12 V, 4-Pin SMD, RoHS, Tape and Reel","SW2","CMP-011-00008-2","Draft","Up to date","1","E-Switch","TL3342F160QG","Obsolete","Mouser","612-TL3342F160","0.80484","0.80484","ESWI-TL3342F160QG_V"
+"","ATTINY1616-SN","Description","U1","","Not managed","","1","","","","","","","","SOIC20_300MIL_MCH"
