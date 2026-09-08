@@ -1,0 +1,11 @@
+Added Component: Designator=S?(SW_EG1218)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EG1218/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EG1218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EG1218/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT1_1 Pin=S?-2
+Added Pin To Net: NetName=NetC4_2 Pin=S?-3
+Change Net Name : Old Net Name=NetProgrammer_2 New Net Name=NetProg_2
+Added Member To Class: ClassName=RepCounter Member=Component S? EG1218

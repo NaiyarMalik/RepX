@@ -1,0 +1,29 @@
+Change Component Description : Designator=C1 Old Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% New Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% | KEMET C320C104M5U5TA
+Change Component Description : Designator=C2 Old Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% New Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% | KEMET C320C104M5U5TA
+Change Component Description : Designator=C3 Old Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% New Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% | KEMET C320C104M5U5TA
+Change Component Description : Designator=C4 Old Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% New Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% | KEMET C320C104M5U5TA
+Added Component: Designator=Q?(FAIR-TO-92)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-226-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.1.0, 07/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "300MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "hFE Min"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Dual Supply"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Vgs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Transistor Outline Package, Body Dia 4.79 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "625mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vce Max"; Value = "1V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs (Max)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=RepCounter Member=Component Q? PN2222ABU

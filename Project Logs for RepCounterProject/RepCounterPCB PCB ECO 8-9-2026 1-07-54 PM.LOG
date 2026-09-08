@@ -1,0 +1,77 @@
+Added Component: Designator=D1(LED_HDSP-523G)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/HDSP-523G/Avago/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Avago Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HDSP-523G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HDSP-523G/Avago/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW?(ESWI-TL3342F160QG_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "TL3342F160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://spec_sheets.e-switch.com/specs/P010632.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. I, 12/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.e-switch.ch/en/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "1.6N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm, Pitch 6.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TL3342F160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_1 Pin=D1-5
+Added Pin To Net: NetName=NetD1_2 Pin=D1-6
+Added Pin To Net: NetName=NetD1_7 Pin=D1-7
+Added Pin To Net: NetName=NetD1_3 Pin=D1-8
+Added Pin To Net: NetName=NetD1_9 Pin=D1-9
+Added Pin To Net: NetName=NetD1_10 Pin=D1-10
+Added Pin To Net: NetName=NetD1_11 Pin=D1-11
+Added Pin To Net: NetName=NetD1_12 Pin=D1-12
+Added Pin To Net: NetName=NetD1_14 Pin=D1-14
+Added Pin To Net: NetName=NetD1_10 Pin=D1-15
+Added Pin To Net: NetName=NetD1_11 Pin=D1-16
+Added Pin To Net: NetName=NetD1_7 Pin=D1-17
+Added Pin To Net: NetName=NetD1_12 Pin=D1-18
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=NetC?_2 Pin=SW?-3
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetQ?_2" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=NetSW?_4 Pin=SW?-4
+Added Pin To Net: NetName=NetSW?_4 Pin=U1-18
+Added Net: Name=NetSW?_4
+Added Member To Class: ClassName=RepCounter Member=Component C? C320C104M5U5TA
+Added Member To Class: ClassName=RepCounter Member=Component C? C320C104M5U5TA
+Added Member To Class: ClassName=RepCounter Member=Component C? C320C104M5U5TA
+Added Member To Class: ClassName=RepCounter Member=Component D1 HDSP-523G
+Added Member To Class: ClassName=RepCounter Member=Component Q? PN2222ABU
+Added Member To Class: ClassName=RepCounter Member=Component R? MFR-25FBF52-1K
+Added Member To Class: ClassName=RepCounter Member=Component R? MFR-25FBF52-475R
+Added Member To Class: ClassName=RepCounter Member=Component R? MFR-25FBF52-475R
+Added Member To Class: ClassName=RepCounter Member=Component R? MFR-25FBF52-475R
+Added Member To Class: ClassName=RepCounter Member=Component R? MFR-25FBF52-475R
+Added Member To Class: ClassName=RepCounter Member=Component R? MFR-25FBF52-475R
+Added Member To Class: ClassName=RepCounter Member=Component R? MFR-25FBF52-475R
+Added Member To Class: ClassName=RepCounter Member=Component R? MFR-25FBF52-475R
+Added Member To Class: ClassName=RepCounter Member=Component SW? TL3342F160QG

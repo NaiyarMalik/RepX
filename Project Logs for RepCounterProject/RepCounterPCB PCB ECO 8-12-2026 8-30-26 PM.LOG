@@ -1,0 +1,5 @@
+Change Component Description : Designator=C1 Old Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% New Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% | KEMET C320C104M5U5TA
+Change Component Description : Designator=C2 Old Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% New Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% | KEMET C320C104M5U5TA
+Change Component Description : Designator=C3 Old Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% New Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% | KEMET C320C104M5U5TA
+Change Component Description : Designator=C4 Old Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% New Description=C320 C 100nF Ceramic Multilayer Capacitor, 50 VDC, +85degC, Z5U Dielec, +/-20% | KEMET C320C104M5U5TA
+Added Pin To Net: NetName=SEG_F Pin=R6-1
