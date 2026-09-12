@@ -4,8 +4,8 @@
 
 ## Current Status
 
-![Define Problem](https://img.shields.io/badge/Status-Complete-brightgreen) -> DONE
-![Select Components](https://img.shields.io/badge/Status-Complete-brightgreen) -> DONE
+![Define Problem](https://img.shields.io/badge/Status-Complete-brightgreen) "\n"
+![Select Components](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 
 ## Why I Made This
