@@ -4,9 +4,8 @@
 
 ## Current Status
 
-<span style="color:green">Soldering in progress</span>
-
-**Prototype 1:** 🔨  + This text will be green
+![Define Problem](https://img.shields.io/badge/Status-Complete-brightgreen) -> DONE
+![Select Components](https://img.shields.io/badge/Status-Complete-brightgreen) -> DONE
 
 
 ## Why I Made This
