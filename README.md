@@ -2,6 +2,11 @@
 
 **RepX** is a handheld grip rep counter designed to automatically count hand-gripper repetitions.
 
+## Current Status
+
+**Prototype 1:** 🔨 Soldering in progress + This text will be green
+
+
 ## Why I Made This
 
 I do hand-gripper exercises at home and sometimes in class, but I always end up **counting reps wrong or forgetting what rep I'm on**.
@@ -30,6 +35,3 @@ The first hardware prototype is currently being assembled and soldered. The goal
 - **PCB:** Custom PCB designed in Altium
 - **Enclosure:** 3D printed
 
-## Status
-
-**Prototype 1:** 🔨 Soldering in progress
