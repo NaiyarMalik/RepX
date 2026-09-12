@@ -6,6 +6,12 @@
 
 ![Define Problem](https://img.shields.io/badge/Status-Complete-brightgreen) 
 ![Select Components](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Schematic Design](https://img.shields.io/badge/Status-Complete-brightgreen)
+![PCB Layout](https://img.shields.io/badge/Status-Complete-brightgreen)
+![DRC & Design Verification](https://img.shields.io/badge/Status-Complete-brightgreen)
+![PCB Manufacturing](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Soldering & Assembly](https://img.shields.io/badge/Status-Currently%20Working%20On-yellow)
+
 
 
 ## Why I Made This
