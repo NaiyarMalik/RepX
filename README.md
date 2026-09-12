@@ -5,19 +5,15 @@
 ## Current Status
 
                 
-Define Problem           |![Define Problem](https://img.shields.io/badge/Status-Complete-brightgreen)
--------------------------|---------------------------------------------------------------------------
-Select Components        |![Select Components](https://img.shields.io/badge/Status-Complete-brightgreen)
--------------------------|------------------------------------------------------------------------
-Schematic Design         |![Schematic Design](https://img.shields.io/badge/Status-Complete-brightgreen)
--------------------------|------------------------------------------------------------------------
-PCB Layout               |![PCB Layout](https://img.shields.io/badge/Status-Complete-brightgreen)
--------------------------|------------------------------------------------------------------------
-DRC & Design Verification|![DRC & Design Verification](https://img.shields.io/badge/Status-Complete-brightgreen)
--------------------------|----------------------------------------------------------------
-PCB Manufacturing        |![PCB Manufacturing](https://img.shields.io/badge/Status-Complete-brightgreen)
--------------------------|----------------------------------------------------------------
-Soldering & Assembly     |![Soldering & Assembly](https://img.shields.io/badge/Status-Currently%20Working%20On-yellow)
+| Step | Status |
+|---|---|
+| Define Problem | ![Define Problem](https://img.shields.io/badge/Status-Complete-brightgreen) |
+| Select Components | ![Select Components](https://img.shields.io/badge/Status-Complete-brightgreen) |
+| Schematic Design | ![Schematic Design](https://img.shields.io/badge/Status-Complete-brightgreen) |
+| PCB Layout | ![PCB Layout](https://img.shields.io/badge/Status-Complete-brightgreen) |
+| DRC & Design Verification | ![DRC & Design Verification](https://img.shields.io/badge/Status-Complete-brightgreen) |
+| PCB Manufacturing | ![PCB Manufacturing](https://img.shields.io/badge/Status-Complete-brightgreen) |
+| Soldering & Assembly | ![Soldering & Assembly](https://img.shields.io/badge/Status-Currently%20Working%20On-yellow) |
 
 
 
