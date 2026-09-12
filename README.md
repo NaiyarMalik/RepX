@@ -6,7 +6,7 @@
 
                 
 Define Problem           |![Define Problem](https://img.shields.io/badge/Status-Complete-brightgreen)
--------------------------|------------------------------------------------------------------------
+
 Select Components        |![Select Components](https://img.shields.io/badge/Status-Complete-brightgreen)
 -------------------------|------------------------------------------------------------------------
 Schematic Design         |![Schematic Design](https://img.shields.io/badge/Status-Complete-brightgreen)
