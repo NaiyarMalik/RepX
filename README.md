@@ -4,7 +4,7 @@
 
 ## Current Status
 
-![Define Problem](https://img.shields.io/badge/Status-Complete-brightgreen) "\n"
+![Define Problem]([https://img.shields.io/badge/Status-Complete-brightgreen](https://img.shields.io/badge/Verilog-✓-brightgreen)) 
 ![Select Components](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 
