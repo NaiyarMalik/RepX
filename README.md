@@ -4,7 +4,9 @@
 
 ## Current Status
 
-**Prototype 1:** 🔨 Soldering in progress + This text will be green
+<span style="color:green">Soldering in progress</span>
+
+**Prototype 1:** 🔨  + This text will be green
 
 
 ## Why I Made This
