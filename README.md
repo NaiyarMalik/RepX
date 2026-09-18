@@ -31,8 +31,7 @@ The first hardware prototype is currently being assembled and soldered. The goal
 
 ## Planned Features
 
-- Automatic rep detection
-- Live rep count
+- Automatic rep detection and counting
 - Small, portable form factor
 - Battery powered
 - Designed to attach to a hand gripper
